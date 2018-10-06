@@ -1,0 +1,7 @@
+{
+  "name": "ilkProje",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
